@@ -129,3 +129,4 @@ bool CanPlayerBeAssignedToRole(app::PlayerControl* player, std::vector<uint8_t>&
 		return false;
 	return true;
 }
+
