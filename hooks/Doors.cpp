@@ -39,3 +39,4 @@ bool dAutoOpenDoor_DoUpdate(AutoOpenDoor* __this, float dt, MethodInfo* method) 
 	}
 	return app::AutoOpenDoor_DoUpdate(__this, dt, method);
 }
+
